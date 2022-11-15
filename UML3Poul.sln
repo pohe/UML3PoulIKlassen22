@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UML3Poul", "UML3Poul\UML3Poul.csproj", "{26E1B7B8-78C7-41ED-AF24-F1E46B6696BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigMammaUML3Test", "BigMammaUML3Test\BigMammaUML3Test.csproj", "{FC83284D-E0F3-48B6-9C6F-0F2B86679585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E1B7B8-78C7-41ED-AF24-F1E46B6696BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E1B7B8-78C7-41ED-AF24-F1E46B6696BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E1B7B8-78C7-41ED-AF24-F1E46B6696BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E1B7B8-78C7-41ED-AF24-F1E46B6696BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC83284D-E0F3-48B6-9C6F-0F2B86679585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC83284D-E0F3-48B6-9C6F-0F2B86679585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC83284D-E0F3-48B6-9C6F-0F2B86679585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC83284D-E0F3-48B6-9C6F-0F2B86679585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96768D8D-1F19-4B9B-ADD6-A75C87478EDD}
+	EndGlobalSection
+EndGlobal
